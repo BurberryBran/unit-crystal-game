@@ -1,0 +1,24 @@
+.jumbotron {
+	background-image: url("../images/background.jpg");
+	background-size: cover;
+	
+  }
+  
+  .jumbotron h1 {
+	color: #ffffff;
+	
+  
+  }
+  
+  .instructions {
+	text-align: center; 
+  }
+  
+  body{
+    background-image:url('../images/background.jpg');
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
